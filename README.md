@@ -57,6 +57,9 @@ Após baixa-lo, apenas execute-o.
 | Tipo de conta para operar (real ou demo) | demo |
 | Valor de cada entrada | 100 |
 
+- https://lu-yi-hsun.github.io/iqoptionapi/
+- https://iqoption.com/pt
+
 
 ## Licença
 Este projeto está licenciado sob a licença MIT License - consulte o arquivo [LICENSE.md](https://github.com/lucenarenato/Copiador-De-Entradas/blob/master/LICENSE "LICENSE.md") para obter detalhes.
