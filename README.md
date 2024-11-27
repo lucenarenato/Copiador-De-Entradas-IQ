@@ -2,7 +2,7 @@
 
 O copiador de entradas busca por estratégias/entradas utilizadas por traders que estão operando ao vivo na IQ Option e replica em sua conta.
 
-[![Copiador de Entradas](https://raw.githubusercontent.com/MatheusGatti/Copiador-De-Entradas/master/Copiador%20de%20Entradas.gif "Copiador de Entradas")](https://github.com/MatheusGatti/Copiador-De-Entradas "Copiador de Entradas")
+[![Copiador de Entradas](https://raw.githubusercontent.com/lucenarenato/Copiador-De-Entradas/master/Copiador%20de%20Entradas.gif "Copiador de Entradas")](https://github.com/lucenarenato/Copiador-De-Entradas "Copiador de Entradas")
 
 
 ## Algumas observações
@@ -13,7 +13,7 @@ O copiador de entradas busca por estratégias/entradas utilizadas por traders qu
 
 ## Bugs? Erros?
 
-Caso encontre algum bug ou erro favor reportar aqui no GitHub na aba [Issues](https://github.com/MatheusGatti/Copiador-De-Entradas/issues "Issues").
+Caso encontre algum bug ou erro favor reportar aqui no GitHub na aba [Issues](https://github.com/lucenarenato/Copiador-De-Entradas/issues "Issues").
 
 
 ## Funcionalidades
@@ -26,7 +26,7 @@ Caso encontre algum bug ou erro favor reportar aqui no GitHub na aba [Issues](ht
 
 #### Versão executável
 
-Para você que não quer perder tempo, separamos uma versão do Copiador de Entradas executável só para você, baixe-a clicando [aqui](https://github.com/MatheusGatti/Copiador-De-Entradas/releases "aqui").
+Para você que não quer perder tempo, separamos uma versão do Copiador de Entradas executável só para você, baixe-a clicando [aqui](https://github.com/lucenarenato/Copiador-De-Entradas/releases "aqui").
 
 Após baixa-lo, apenas execute-o.
 
@@ -37,7 +37,7 @@ Após baixa-lo, apenas execute-o.
   - [IQOption Stable API](https://github.com/Lu-Yi-Hsun/iqoptionapi "IQOption Stable API")
  
 #####  Clonando o repositório
-`git clone https://github.com/MatheusGatti/Copiador-De-Entradas.git`
+`git clone https://github.com/lucenarenato/Copiador-De-Entradas.git`
 
 ##### Abrindo a aplicação
 `cd Copiador-De-Entradas`
@@ -59,4 +59,4 @@ Após baixa-lo, apenas execute-o.
 
 
 ## Licença
-Este projeto está licenciado sob a licença MIT License - consulte o arquivo [LICENSE.md](https://github.com/MatheusGatti/Copiador-De-Entradas/blob/master/LICENSE "LICENSE.md") para obter detalhes.
+Este projeto está licenciado sob a licença MIT License - consulte o arquivo [LICENSE.md](https://github.com/lucenarenato/Copiador-De-Entradas/blob/master/LICENSE "LICENSE.md") para obter detalhes.
